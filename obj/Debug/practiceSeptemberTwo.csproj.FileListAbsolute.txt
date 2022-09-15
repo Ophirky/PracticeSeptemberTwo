@@ -1,0 +1,8 @@
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\practiceSeptemberTwo\obj\Debug\practiceSeptemberTwo.csproj.AssemblyReference.cache
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\practiceSeptemberTwo\obj\Debug\practiceSeptemberTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\practiceSeptemberTwo\obj\Debug\practiceSeptemberTwo.csproj.CoreCompileInputs.cache
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\practiceSeptemberTwo\bin\Debug\practiceSeptemberTwo.exe.config
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\practiceSeptemberTwo\bin\Debug\practiceSeptemberTwo.exe
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\practiceSeptemberTwo\bin\Debug\practiceSeptemberTwo.pdb
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\practiceSeptemberTwo\obj\Debug\practiceSeptemberTwo.exe
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\practiceSeptemberTwo\obj\Debug\practiceSeptemberTwo.pdb
