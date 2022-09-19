@@ -10,7 +10,7 @@ namespace practiceSeptemberTwo
     {
         public override void ExcersizeCode()
         {
-            PrintTitle("TwoDigit");
+            PrintTitle("TwoDigit"); // inherited function
             TwoDigit();
 
             PrintTitle("ThreeDigit");
